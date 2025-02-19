@@ -1,0 +1,8 @@
+PyPDF2
+fpdf
+numpy
+plotly
+Pillow
+opencv-python
+pytesseract
+
